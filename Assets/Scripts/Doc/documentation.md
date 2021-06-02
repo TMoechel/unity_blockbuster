@@ -1,0 +1,2 @@
+﻿# Blockbuster Code Dokumentation
+## Vorbereitung
